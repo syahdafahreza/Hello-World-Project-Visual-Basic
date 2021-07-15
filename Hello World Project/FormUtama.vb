@@ -1,4 +1,4 @@
-﻿Public Class Form1
+﻿Public Class FormUtama
 
     Dim KataKata As String
     Private Sub btnCreateHelloWorld_Click(sender As Object, e As EventArgs) Handles btnCreateHelloWorld.Click
@@ -16,3 +16,5 @@
         MsgBox(KataKata)
     End Sub
 End Class
+
+'Created by/Dibuat oleh: Syahda Fahreza

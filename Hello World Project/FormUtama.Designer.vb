@@ -1,5 +1,5 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
-Partial Class Form1
+Partial Class FormUtama
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
@@ -63,7 +63,7 @@ Partial Class Form1
         Me.btnShowStringDialog.Text = "Tampilkan dialog tulisan diatas!"
         Me.btnShowStringDialog.UseVisualStyleBackColor = True
         '
-        'Form1
+        'FormUtama
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
@@ -75,7 +75,7 @@ Partial Class Form1
         Me.Controls.Add(Me.textField1)
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog
         Me.MaximizeBox = False
-        Me.Name = "Form1"
+        Me.Name = "FormUtama"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Hello World Project"
         Me.ResumeLayout(False)
