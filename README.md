@@ -11,5 +11,5 @@
 In the Visual Studio 2015
 
 ```bash
-File > Open > Project/Solution... > Hello World Project.sln
+File > Open > Project/Solution... > Locate Hello World Project.sln and open it
 ```
