@@ -28,3 +28,13 @@ C:\Users\Yui Dev\Documents\GitHub\Hello-World-Project-Visual-Basic\Hello World P
 C:\Users\Yui Dev\Documents\GitHub\Hello-World-Project-Visual-Basic\Hello World Project\obj\Debug\Hello_World_Project.FormUtama.resources
 C:\Users\Yui Dev\Documents\GitHub\Hello-World-Project-Visual-Basic\Hello World Project\obj\Debug\Hello_World_Project.Resources.resources
 C:\Users\Yui Dev\Documents\GitHub\Hello-World-Project-Visual-Basic\Hello World Project\obj\Debug\Hello World Project.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\GitHub\Hello-World-Project-Visual-Basic\Hello World Project\obj\Debug\Hello World Project.exe
+C:\Users\Administrator\Documents\GitHub\Hello-World-Project-Visual-Basic\Hello World Project\obj\Debug\Hello World Project.xml
+C:\Users\Administrator\Documents\GitHub\Hello-World-Project-Visual-Basic\Hello World Project\obj\Debug\Hello World Project.pdb
+C:\Users\Administrator\Documents\GitHub\Hello-World-Project-Visual-Basic\Hello World Project\bin\Debug\Hello World Project.exe
+C:\Users\Administrator\Documents\GitHub\Hello-World-Project-Visual-Basic\Hello World Project\bin\Debug\Hello World Project.pdb
+C:\Users\Administrator\Documents\GitHub\Hello-World-Project-Visual-Basic\Hello World Project\bin\Debug\Hello World Project.xml
+C:\Users\Administrator\Documents\GitHub\Hello-World-Project-Visual-Basic\Hello World Project\obj\Debug\Hello World Project.vbprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\Hello-World-Project-Visual-Basic\Hello World Project\obj\Debug\Hello_World_Project.FormUtama.resources
+C:\Users\Administrator\Documents\GitHub\Hello-World-Project-Visual-Basic\Hello World Project\obj\Debug\Hello_World_Project.Resources.resources
+C:\Users\Administrator\Documents\GitHub\Hello-World-Project-Visual-Basic\Hello World Project\obj\Debug\Hello World Project.vbproj.GenerateResource.Cache
